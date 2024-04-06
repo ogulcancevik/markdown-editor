@@ -24,6 +24,10 @@ This is a simple web application built with Vue.js that allows users to write ma
 
 ![Markdown Editor](public/app.png) 
 
+## Live Demo
+
+A live demo of the application can be found [here](https://markdown-editor-vuejs.netlify.app).
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
