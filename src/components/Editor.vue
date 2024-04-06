@@ -15,6 +15,9 @@ export default {
       immediate: true
     }
   },
+  mounted() {
+    localStorage.setItem('source', this.value || '')
+  },
   emits: ['input']
 }
 </script>
