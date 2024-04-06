@@ -4,7 +4,6 @@
       <Document class="icon" />
       <div class="text">
         <span>Markdown Editor</span>
-        <span>{{ fileName }}.md</span>
       </div>
     </div>
     <button @click="toggleMd" class="btn-show">
@@ -18,7 +17,6 @@ import Document from './icons/Document.vue'
 export default {
   components: { Document },
   data: () => ({
-    fileName: 'Untitled',
     isShowMd: true
   }),
   methods: {
