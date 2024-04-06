@@ -22,7 +22,7 @@ This is a simple web application built with Vue.js that allows users to write ma
 
 ## Screenshots
 
-![Markdown Editor](public/app.png) 
+![Markdown Editor](/app.png) 
 
 ## Live Demo
 
